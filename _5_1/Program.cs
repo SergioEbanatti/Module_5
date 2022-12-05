@@ -18,7 +18,7 @@ namespace _5_1
         }
 
         /// <summary>
-        /// Разделение введённого пользователем предложения на массив, состоящий из слов.
+        /// Разделение введённого пользователем предложения на массив, состоящий из слов
         /// </summary>
         /// <param name="text"></param>
         /// <returns>массив string, состоящий из слов</returns>
@@ -28,7 +28,7 @@ namespace _5_1
         }
 
         /// <summary>
-        /// Вывод каждого элемента массива string в отдельной строке.
+        /// Вывод каждого элемента массива string в отдельной строке
         /// </summary>
         /// <param name="arrayToSeparate"></param>
         private static void SeparateArrayOutput(string[] arrayToSeparate)
